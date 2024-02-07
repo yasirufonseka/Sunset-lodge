@@ -1,0 +1,184 @@
+.collapse_navbar-collapse{
+
+  float:right;
+
+}
+.imgcard{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  
+
+}
+.card-4{
+width: 250PX;
+height: 200px;
+
+
+}
+.card-text{
+  width: 75%;
+
+}
+.aboutlanka{
+  display: flex;
+  flex-direction: row;
+  margin: 5%;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(184, 171, 171 , 0.5);
+  padding: 20px 8px 10px 50px;
+  margin: 50px 0px 50px 0px;
+ 
+
+}
+.animal{
+  width: 85%;
+  
+}
+
+.aboutParagraph{
+  font-variant: small-caps;
+  
+
+}
+.learnButton{
+  margin-top: 3rem;
+  text-align: center;
+
+}
+button{
+  background: transparent;
+  border-radius: 5px;
+  border: 2px solid rgb(174, 236, 3);
+  padding-top: 2px;
+  padding-bottom: 4px;
+  text-align: center;
+  font-style: oblique;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.planHoliday{
+  display: flex;
+  flex-direction: row;
+  margin: 50px 0 50px 0;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(184, 171, 171 , 0.5);
+  word-wrap: break-word;
+}
+
+.animal{
+  
+  object-fit: contain
+  
+}
+#holidayimg{
+ margin-top: 15px;
+ 
+
+}
+
+
+#holidaytext1{
+ padding-top: 60px;
+ padding-right: 10px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: large;
+  word-spacing: 5%;
+  color: rgb(21, 21, 24);
+ 
+  
+}
+.elegance{
+  display: flex;
+  flex-direction: row;
+  margin: 50px 0 50px 0;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(184, 171, 171 , 0.5);
+  word-wrap: break-word;
+  
+}
+#elegancetext1{
+  padding-top: 60px;
+  padding-right: 10px;
+   font-variant: small-caps;
+   text-align: center;
+   font-size: large;
+   word-spacing: 5%;
+   color: rgb(21, 21, 24);
+   
+  
+   
+ }
+ 
+ #eleganceimg{
+ 
+ }
+ .wed{
+  margin-top: 70px;
+  width: 600px;
+  height: 400px;
+ }
+a:active {
+  color: rgb(0, 0, 0);
+  font-style: italic;
+}
+.background-color{
+  display: flex;
+  flex-direction: row;
+  width: 2fr;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin-top: 10%;
+ 
+  background-image: url(
+    https://images.pexels.com/photos/6045035/pexels-photo-6045035.jpeg?auto=compress&cs=tinysrgb&w=600
+    );
+  background-repeat: no-repeat ;
+  background-size: 100%;
+  
+}
+
+.bottom{
+  width: 30%;
+  height: 320px;
+  margin-top: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  text-align: center;
+  margin-top: 5px;
+  background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.18) ;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.37);
+}
+.bottom1{
+  width: 2000px;
+  height: 320px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;;
+  font-style: italic;
+  background: linear-gradient(135deg,rgba(255,255,255,0.1),rgba(255,255,255,0));
+  backdrop-filter: blur(1px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.18) ;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.37);
+}
+
+.bhead{
+font-size: 50px;
+font-style: italic;
+
+}
+
+
